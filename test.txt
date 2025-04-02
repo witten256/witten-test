@@ -2,4 +2,8 @@ a file added in feature/test
 
 got review from PM
 
-& fixed bugs
+    & fixed bugs
+
+found new bud after published
+
+    fixed
